@@ -1,58 +1,111 @@
+
+# 👨‍🎓 Qimin Zhou (周奇民)
+
+Ph.D. Candidate, Beijing University of Posts and Telecommunications.  
+Email: zhouqimin@bupt.edu.cn. [Google Scholar](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=-Ga4XN8AAAAJ) 
+
+## 🧠 My research interests include:
+-**Graph Foundation Models**
+-**Riemannian Geometry**
+-**LLMs**
+-**Embodied AI**
+
+ ## 🔥 News
+- *2025.07*: &nbsp;🎉🎉 **Congratulations to Qimin Zhou!** His paper *"Pearson Correlation Coefficient-Guided Large-Scale Fuzzy Cognitive Maps Learning Algorithm"* has been accepted by *Fuzzy Sets and Systems*, a top-tier journal in SCI Q1.
+
+  
+## 🎓 Education
+
+- **Ph.D. in Computer Science**, Beijing University of Posts and Telecommunications, *2024.09–2028.07*  
+  Advised by Prof. **Chuan Shi[HomePage](http://www.shichuan.org/ShiChuan_ch.html)**(BUPT), co-mentored by Dr. **Li Sun** (NCEPU), Dr. **Philip S. Yu** (UIC), and Dr. **Cheng Yang** (BUPT).
+
+- **M.Sc. in Computational Mathematics**, Xi'an Polytechnic University, *2021.09–2024.07*  
+  Advised by Prof. **Yingcang Ma**, recipient of Graduate Excellence Award.
+
+- **B.Sc. in Information and Computing Science**, Xi'an Polytechnic University, *2017.09–2021.07*  
+  GPA: 3.72/4.0, ranked 3/61, awarded Provincial Excellent Graduate.
+
 ---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
+## 📝 Selected Publications
+
+- **Harnessing Language Model for Cross-Heterogeneity Graph Knowledge Transfer**  
+  *Proceedings of AAAI 2025 (CCF-A)*  
+  Y. Jiang, R. Wang, C. Yang, B. Yan, **Q. Zhou**, Y. Juan, C. Shi
+
+- **Sparse Large-Scale High-Order Fuzzy Cognitive Maps Guided by Spearman Correlation Coefficient**  
+  *Applied Soft Computing*, Vol. 167, 2024, 112253. (SCI 1区 Top)
+
+- **A Comprehensive Framework for Designing and Learning Fuzzy Cognitive Maps at the Granular Level**  
+  *Applied Soft Computing*, Vol. 158, 2024, 111601. (SCI 1区 Top)
+
+- **Sparse and Regression Learning of Large-Scale Fuzzy Cognitive Maps Based on Adaptive Loss Function**  
+  *Applied Intelligence*, Vol. 54(3), 2024, 2750–2766. (SCI 2区)
+
+- **Pearson Correlation Coefficient-Guided Large-Scale Fuzzy Cognitive Maps Learning Algorithm**  
+  *Fuzzy Sets and Systems*, Accepted, 2025. (SCI 1区 Top)
+
+[Full Publication List →](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=-Ga4XN8AAAAJ)
+
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+## 💻 Internships
 
-<span class='anchor' id='about-me'></span>
+- **Algorithm Engineer**, Anhui Digital Intelligence Institute — *2023.08–09*  
+  Cement blending optimization using `ortools`, data cleaning, free calcium prediction with SVM and Lasso.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+- **Algorithm Engineer**, Mech-Mind Robotics — *2023.02–04*  
+  Robotic arm calibration and trajectory optimization using Python, C++, and 3D transformations.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- **Algorithm Engineer**, Beijing Wanwang Technology — *2021.07–09*  
+  Anomaly detection in Benz production lines with RNN/LSTM, simulation modeling.
 
+- **Java Developer Engineer**, Guoyan Software — *2020.07–09*  
+  Designed interfaces for resident opinion classification in smart city system.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
 
-# 📝 Publications 
+## 🏅 Honors & Awards
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Outstanding Graduate**, Xi’an Polytechnic University, 2024  
+- **National Encouragement Scholarship**, 2017–2018  
+- **First Prize**, National Mathematical Modeling Contest, Shaanxi Province  
+- **Third Prize**, National Undergraduate Math Competition (2018 & 2019)  
+- **Special Prize**, Innovation Achievement Contest, 2024  
+- Dozens of scholarships during undergraduate and graduate studies
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+---
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## 📌 Projects & Patents
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Graph Neural Network with PyG**: Practical GNN project implementation and improvement on A100 GPUs  
+- **Multi-functional Bi-directional Electronic Pen**: 1st inventor, utility patent  
+- **Matlab/Python implementations**: fuzzy clustering, online AQP-FCM, compressive strength prediction  
+- **Student Management System**: HTML frontend with MySQL backend  
+- **Software Copyright**: Environment design tool (5th inventor)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 🎨 Interests & Skills
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Poetry & Music — Original compositions and lyrics  
+- Strong coding in Python, MATLAB; can read C/C++/Java  
+- Experienced with Git, Linux, and algorithm engineering  
+- Passionate about scientific innovation, teamwork, and interdisciplinary research
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+---
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 📚 Memberships
+
+- Student Member, Chinese Association for Artificial Intelligence  
+- Reviewer, *Knowledge-Based Systems*  
+- Participant in four funded projects:
+  - National Natural Science Foundation of China  
+  - Shaanxi Key R&D Program  
+  - Shaanxi Natural Science Fund  
+  - Foreign Experts Program, China
+
+---
+
+*Last updated: July 2025*
+
